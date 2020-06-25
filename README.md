@@ -18,7 +18,7 @@ I made the following changes and created the following variables:
 
 # EDA
 For better understanding of the dtaset, I looked at the distributions of data and value counts of catagorical data. Below are a few highlights<br>
-
+![Movie Distribution](/images/movie proportion.PNG)
 
 # Model Building and Accuracy Score
 * I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.
