@@ -17,8 +17,10 @@ I made the following changes and created the following variables:
 * Seperated data into different dataframes according to their streaming platform for 
 
 # EDA
-For better understanding of the dtaset, I looked at the distributions of data and value counts of catagorical data. Below are a few highlights<br>
-![Movie Distribution](/images/movie proportion.PNG)
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights<br>
+![](https://github.com/sarvagyajain/Movie-Rating-Prediction/blob/master/images/movie%20proportion.PNG)
+![](https://github.com/sarvagyajain/Movie-Rating-Prediction/blob/master/images/average%20rating%20country.PNG)
+![](https://github.com/sarvagyajain/Movie-Rating-Prediction/blob/master/images/average%20rating%20genre.PNG)
 
 # Model Building and Accuracy Score
 * I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.
